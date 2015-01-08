@@ -36,6 +36,7 @@ public class MyWatchFaceService extends CanvasWatchFaceService {
                 R.drawable.image_0,
                 R.drawable.image_1,
                 R.drawable.image_2,
+                R.drawable.image_3,
         };
 
         Paint mHourPaint;
